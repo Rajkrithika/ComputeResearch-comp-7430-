@@ -10,5 +10,8 @@ TECHNOLOGY USED:  Python, Deep learning and pytorch
 INSTALLATION : jupyter notebook 
 
 USAGE : 
+step 1: 
+
+step 2: 
 
 
